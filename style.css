@@ -9,8 +9,9 @@ body{
     width: 1399px;
     /* height: 677px; */
     background-color: #2D25A0;
-    margin-left: -8px;
+    margin-left: -9px;
     margin-top: -8px;
+    padding-left: 181px;
 }
 .right-headercontents img{
     width: 556.01px;
